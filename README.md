@@ -42,6 +42,9 @@
 [Description: Endless adventure game using Ollama offline AI (can replace with OpenAI)](https://github.com/YERRAGUNA123/2/tree/cc2d10c5aa87f533caf1fc6b51303ade95335961/gamemaster)
 
 🔗 [LinkedIn Post](https://www.linkedin.com/posts/yerra-guna-shekhar-92484a32b_activity-7377245435125600257-VXoz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFM9nKwBM1DjCUmWZ4LV9k25YaXBZMcOWuo)
+
+[![LinkedIn Post Preview](assets/linkedin-post.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7377221040726380544)
+
 ---
 
 
